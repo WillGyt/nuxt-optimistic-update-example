@@ -14,7 +14,6 @@ const columns = [
     label: 'Last name',
     key: 'last_name',
   },
-  { label: 'Email', key: 'email' },
   { label: 'Favorite Color', key: 'favorite_color' },
 ];
 </script>
