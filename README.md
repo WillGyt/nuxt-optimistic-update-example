@@ -1,5 +1,9 @@
 # Optimistic Update Example
 
+## This repo is material for this video
+
+[![Video thumbnail](http://img.youtube.com/vi/8NPLEWK7tAU/0.jpg)](http://www.youtube.com/watch?v=8NPLEWK7tAU 'The best way for users to update data in Nuxt')
+
 ## How to run this project
 
 Once you have cloned this project:
