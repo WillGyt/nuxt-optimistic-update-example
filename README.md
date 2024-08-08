@@ -1,7 +1,10 @@
 # Optimistic Update Example
 
-## Checkout this video
+## How to run this project
 
-[![Thumbnail](http://img.youtube.com/vi/5bDGlLiVggE/0.jpg)](http://www.youtube.com/watch?v=5bDGlLiVggE "Video Title")
+Once you have cloned this project:
 
-## To run this repo
+- Make sure you have Supabase installed. See [here](https://supabase.com/docs/guides/cli/getting-started?queryGroups=platform&platform=macos).
+- In the folder, run `supabase start`
+- Install node packages with `pnpm install` or your prefered package manager
+- Start the dev folder using `pnpm run dev` or `npx nuxi dev`
