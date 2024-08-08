@@ -2,6 +2,6 @@
 
 ## Checkout this video
 
-[![thumbnail](https://youtu.be/5bDGlLiVggE/0.jpg)](https://youtu.be/5bDGlLiVggE)
+[![Thumbnail](http://img.youtube.com/vi/5bDGlLiVggE/0.jpg)](http://www.youtube.com/watch?v=5bDGlLiVggE "Video Title")
 
 ## To run this repo
